@@ -1,7 +1,7 @@
-# ??? Django Password Generator 
+# 🔒 Django Password Generator 
 A simple yet powerful Django application that generates secure passwords to help you keep your accounts safe. 
  
-## ?? Table of Contents 
+## 📚 Table of Contents 
 - [Features](#features) 
 - [Installation](#installation) 
 - [Usage](#usage) 
@@ -10,13 +10,13 @@ A simple yet powerful Django application that generates secure passwords to help
 - [License](#license) 
 - [Acknowledgments](#acknowledgments) 
  
-## ?? Features 
+## ⭐ Features 
 - Generate random passwords with customizable length and complexity. 
 - User-friendly interface built with Django. 
 - Option to save generated passwords securely. 
 - Responsive design using [Bootstrap](https://getbootstrap.com) for a modern look and feel. 
  
-## ??? Installation 
+## ⚙️ Installation 
  
 ### Prerequisites 
 - Python 3.x 
@@ -63,18 +63,18 @@ python manage.py runserver
 7. **Access the app:** 
 Open your web browser and navigate to \`http://127.0.0.1:8000/\`. 
  
-## ?? Usage 
+## 🛠️ Usage
 - Enter your desired password length and select complexity options (uppercase, lowercase, numbers, symbols). 
 - Click the "Generate" button to create a secure password. 
 - Copy the generated password to your clipboard. 
  
-## ?? Technologies Used 
+## 💻 Technologies Used 
 - **Django**: A high-level Python web framework. 
 - **HTML/CSS**: For frontend design. 
 - **JavaScript**: For interactive features. 
 - **Bootstrap**: For responsive design and styling. 
  
-## ?? Contributing 
+## 🤝 Contributing 
 Contributions are welcome! Please follow these steps: 
 1. Fork the repository. 
 2. Create a new branch (\`git checkout -b feature/YourFeature\`). 
@@ -82,10 +82,10 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (\`git push origin feature/YourFeature\`). 
 5. Open a pull request. 
  
-## ?? License 
+## 📄 License 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
  
-## ? Acknowledgments 
+## 🙏 Acknowledgments 
 - Thanks to the Django community for their support and resources. 
 - Inspired by the need for secure password generation in today's digital world. 
 - Special thanks to [Bootstrap](https://getbootstrap.com) for providing a great framework for responsive design. 
